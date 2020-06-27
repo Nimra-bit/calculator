@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://www.mathplanet.com/media/2439951/digitalamatte.png?width=482&height=321&mode=max);
+     background-size: cover;
+     background-attachment: fixed;
+}
+h1{
+    letter-spacing: 2px;
+    color: white;
+    padding: 2px;
+    background-color: rgb(51, 89, 161) ;
+    text-align: center;
+}
+
+.whole{
+    margin-top: 20px;
+    
+    background-color: rgb(51, 89, 161);
+    margin: 0 auto;
+    width: 250px;
+    height: 350px;
+    letter-spacing: 5px;
+    box-shadow: 0px 0px 0px 10px rgb(60, 85, 109);
+    border-radius: 10px;
+}
+.underbtn{
+  margin-top: 3px;
+  width: 40px;
+  background: linear-gradient(90deg, #0162c8 ,#55e7fc);
+ 
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #000000;
+  border-radius: 7px;
+}
+.show{
+    margin-top: 2px;
+    text-shadow: 2px 2px 4px #000000;
+    margin-left: 12px;
+    width: 90%;
+    background-color: rgb(211, 226, 235);
+    border:  solid rgb(49, 45, 68);
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: rgb(62, 93, 150);
+}
+.btn{
+   margin: 10px;
+    margin-left: 35px;
+
+}
